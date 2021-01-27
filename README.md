@@ -4,6 +4,10 @@
 Kahootflood is a program especially designed to make people confused.
 Great for April fools pranks and jokes.
 
+## Manual
+The manual is stored in https://discord.gg/5UE8hzhQfn
+It has every setting and information about the bot.
+
 ## Installation
 If you want the exe for quick use, go to https://kahootflood.weebly.com/d
 
