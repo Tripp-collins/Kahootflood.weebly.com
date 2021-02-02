@@ -154,7 +154,9 @@ process.setMaxListeners(Number.POSITIVE_INFINITY)
 Arandomint = 0
 todo=false
 function join(name,idee) {
-    
+    while (name==undefined) {
+        name=getName()
+    }
     const client = new Kahoot();
     client.setMaxListeners(Number.POSITIVE_INFINITY)
         if(er=="y"){
