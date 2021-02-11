@@ -71,7 +71,7 @@ console.log("Please note that you should have got this file from kahootflood.wee
 console.log("If you got this flooder from a diffrent link, delete the file ASAP.")
 console.log("If you are viewing the online version, make sure your URL is codingmaster398.github.io/kahootfloodonline")
 console.log("If you are using this software in a youtube video, credit me. www.youtube.com/c/stephennobleisaperson \n")
-readline.question('Press any key to continue');
+readline.question('Press enter to continue');
 
 //ok lets go baby
 function ads() {
