@@ -65,6 +65,14 @@ function shuffle(array) {
   
 process.setMaxListeners(Number.POSITIVE_INFINITY)
 
+//people scammin, they hatin
+console.clear()
+console.log("Please note that you should have got this file from kahootflood.weebly.com.")
+console.log("If you got this flooder from a diffrent link, delete the file ASAP.")
+console.log("If you are viewing the online version, make sure your URL is codingmaster398.github.io/kahootfloodonline")
+console.log("If you are using this software in a youtube video, credit me. www.youtube.com/c/stephennobleisaperson \n")
+readline.question('Press any key to continue');
+
 //ok lets go baby
 function ads() {
     console.clear()
